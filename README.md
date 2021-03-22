@@ -8,7 +8,7 @@ This CLI app prints all unique words of a file in a simple way.
 
 
 
-####Showcase:
+#### Showcase:
 
 ```bash
 ▶ cat test.txt
