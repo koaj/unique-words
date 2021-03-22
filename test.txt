@@ -1,0 +1,8 @@
+one
+two two
+three Three
+four, five, six
+/home/address/public_dir
+["Hello", "world!"]
+root::user
+<!doctype html><html><head><meta charset="utf-8"><title>
